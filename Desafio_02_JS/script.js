@@ -25,7 +25,6 @@ let result
 
 const averageTest = function(noteOne, noteTwo){
     return (noteOne + noteTwo)/2
-    
 }
 const passChecker = function(student){
 
